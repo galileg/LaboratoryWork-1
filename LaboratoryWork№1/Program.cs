@@ -78,7 +78,6 @@ namespace LaboratoryWork_1
             Console.Write("3)      ");
             Console.WriteLine("n = " + n + "; m = " + m + "\n\t--m > n = " + r3 + "\n\n");
 
-
             Console.Write("4)      ");
             bool OK = false;
             double x;
